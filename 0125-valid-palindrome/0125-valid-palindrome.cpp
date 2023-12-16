@@ -6,7 +6,7 @@ public:
         
         for(auto c : s){
             if(c >= 'A' && c <= 'Z')
-                S.push_back(c + 32);
+                S.push_back(c + 32); // c-'A' + 'a'
             else if((c >= 'a' && c <= 'z') || (c >= '0' && c <= '9'))
                 S.push_back(c);
         }
