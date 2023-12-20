@@ -3,7 +3,7 @@ class Solution
     public:
         int maxSubArray(vector<int> &nums)
         {
-            /*int max_so_far = INT_MIN, max_ending_here = 0,
+            int max_so_far = INT_MIN, max_ending_here = 0,
                 start = 0, end = 0, s = 0;
 
             for (int i = 0; i < nums.size(); i++)
@@ -23,15 +23,16 @@ class Solution
                     s = i + 1;
                 }
             }
-            return max_so_far;*/
-            int ans = INT_MIN, a = 0;
+            return max_so_far;
+            
+ /*           int ans = INT_MIN, a = 0;
             
             for(int num : nums){
                 a += num;
                 ans = max(ans, a);
                 a = max(a, 0);
             }
-            return ans;
+            return ans;*/
 
         }
 };
