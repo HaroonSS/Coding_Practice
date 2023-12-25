@@ -6,7 +6,7 @@ class Solution
 
         for (int i = ind; i < nums.size(); ++i)
         {
-            if (i != ind && nums[i] == nums[i - 1]) continue;
+            if (i != ind && nums[i] == nums[i - 1]) continue; // remove this line to make it subset sum problem
             temp.push_back(nums[i]);
             helper(i + 1, res, temp, nums);
             temp.pop_back();
