@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lcsa(string s1, string s2) {
+    int lcs(string s1, string s2) {
         //The longest palindromic subsequence of a string is the longest common subsequence of the given string and its reverse.
     int n = s1.size();
     int m = s2.size();
@@ -25,7 +25,7 @@ public:
 
     return dp[n][m];
 }
-    int lcs(string s1, string s2) {
+    int lcsa(string s1, string s2) {
     int n = s1.size();
     int m = s2.size();
 
