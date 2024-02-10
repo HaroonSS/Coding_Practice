@@ -2,7 +2,7 @@ class Solution {
 public:
   bool ans = false;
 
-  bool match(TreeNode * root, TreeNode *subRoot) {
+bool match(TreeNode * root, TreeNode *subRoot) {
   if (root && subRoot) {
     bool a = match(root -> left, subRoot -> left);
     bool b = match(root -> right, subRoot -> right);
@@ -11,8 +11,10 @@ public:
       return true;
     else
       return false;
-  } else if (!root && !subRoot) return true;
-  else return false;
+  } else if (!root && !subRoot) 
+      return true;
+  else 
+      return false;
 }
 
 void inorder(TreeNode * root, TreeNode * subRoot) {
@@ -23,7 +25,7 @@ void inorder(TreeNode * root, TreeNode * subRoot) {
     inorder(root -> right, subRoot);
   }
 }
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         inorder(root, subRoot);
         return ans;
 
