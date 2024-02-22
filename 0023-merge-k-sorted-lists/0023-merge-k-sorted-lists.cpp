@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.empty()) {
-            return nullptr;
+        if (lists.size() == 0) {
+            return NULL;
         }
         return mergeKListsHelper(lists, 0, lists.size() - 1);
     }
