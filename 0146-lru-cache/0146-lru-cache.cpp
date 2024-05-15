@@ -2,10 +2,8 @@ class LRUCache {
   public:
     class node {
       public:
-        int key;
-      int val;
-      node * next;
-      node * prev;
+      int key, val;
+      node * next, * prev;
       node(int _key, int _val) {
         key = _key;
         val = _val;
@@ -49,7 +47,6 @@ class LRUCache {
       m[key_] = head -> next;
       return res;
     }
-
     return -1;
   }
 
