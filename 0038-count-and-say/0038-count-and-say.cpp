@@ -43,4 +43,6 @@ But you can in this example "1211$"
 if(s[j]==s[j-1]){
 cnt++;
 }
-to count the last one you've to include an ending character.*/
+to count the last one you've to include an ending character.
+Time Complexity : O(n^2) 
+*/
