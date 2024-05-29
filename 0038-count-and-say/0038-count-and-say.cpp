@@ -13,21 +13,18 @@ public:
         str += '$';
         int len = str.length();
 
-        int cnt = 1; // Initialize count of matching chars
-        string  tmp = ""; // Initialize i'th term in series
+        int cnt = 1; 
+        string  tmp = ""; 
 
         // Process previous term to find the next term
         for (int j = 1; j < len; j++)
         {
-            if (str[j] != str[j-1])     // If current character doesn't match
+            if (str[j] != str[j-1])     
             {
-                tmp += cnt + '0';    // Append count of str[j-1] to temp
-
-                tmp += str[j-1];    // Append str[j-1]
-
-                cnt = 1;     // Reset count
+                tmp += to_string(cnt) + str[j-1];   
+                cnt = 1;
             }
-            else cnt++;        //  If matches, then increment count of matching characters
+            else cnt++;       
         }
         str = tmp;
     }
