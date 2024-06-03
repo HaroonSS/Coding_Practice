@@ -16,13 +16,14 @@ public:
             while(j < n && s[j] != ' ')
                 j++;
             
-            result = s.substr(i, j-i) + " " + result;
+            if(result == "") // instead of this if- else block:  result.pop_back();
+                result = s.substr(i, j-i);
+            else
+                result = s.substr(i, j-i) + " " + result;
             
             i = j+1;
             
         }
-        
-        result.pop_back();
         
         return result;
         
