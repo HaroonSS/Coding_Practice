@@ -6,9 +6,9 @@ public:
         sort(nums.begin(), nums.end());
         
         for(int i=0; i< n/2;i++){
-            double a = (nums[i] + nums[n-i-1])/2.0;
-            if(a < minAvg)
-                minAvg = a;
+            double temp = (nums[i] + nums[n-i-1])/2.0;
+            if(temp < minAvg)
+                minAvg = temp;
 
         }
         
