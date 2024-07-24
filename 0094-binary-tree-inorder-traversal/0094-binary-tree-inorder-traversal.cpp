@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-public:
+public:/*
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> nodes;
         stack<TreeNode*> todo;
@@ -25,5 +25,22 @@ public:
             root = root -> right;
         }
         return nodes;   
+    }*/
+    void inorder(TreeNode *root, vector<int > &list){
+        
+        if(root == NULL){
+            return;
+        }
+        inorder(root -> left, list);
+        list.push_back(root-> val);
+        inorder(root -> right, list);
+        
+    }
+        vector<int> inorderTraversal(TreeNode* root) {
+            vector<int > list;
+            inorder(root, list);
+            
+            return list;
+
     }
 };
