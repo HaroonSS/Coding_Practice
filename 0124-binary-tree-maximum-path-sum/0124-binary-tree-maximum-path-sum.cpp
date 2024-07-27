@@ -12,20 +12,26 @@
 class Solution {
 public:
     int maxPathSum(TreeNode* root) {
-        int sum=INT_MIN;
-        help(root, sum );
-        return sum;
+        int maxi = INT_MIN; 
+        findMaxPathSum(root, maxi);
+        return maxi;
     }
     
-    /*** return the max-value-ended-at-root-node ***/
-    int help(TreeNode* root,int& sum){
-        if(!root)   return 0;
-        int left = max(0, help(root->left, sum));
-        int right = max(0, help(root->right, sum));
-        /*** key parts : embedding the max-value-find in the recursion process ***/
-        sum = max(sum, left+right+root->val);
-        /*** get the max-value-ended-at-root ***/
-        return max(left, right)+root->val;
+    int findMaxPathSum(TreeNode* root, int &maxi) {
+        if (root == nullptr) {
+            return 0;
+        }
+
+        // Calculate the maximum path sum for the left and right subtrees
+        int leftMaxPath = max(0, findMaxPathSum(root->left, maxi));
+        int rightMaxPath = max(0, findMaxPathSum(root->right, maxi));
+
+        // Update the overall maximum path sum including the current node
+        maxi = max(maxi, leftMaxPath + rightMaxPath + root->val);
+
+        // Return the maximum sum considering only one branch (either left or right)
+        // along with the current node
+        return max(leftMaxPath, rightMaxPath) + root->val;
     }
     
 };
