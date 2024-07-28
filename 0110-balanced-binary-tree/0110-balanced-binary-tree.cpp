@@ -11,22 +11,24 @@
  */
 class Solution {
 public:
-    int checkBalance(TreeNode* root, bool &ans){
+//A binary tree is balanced if, for all nodes in the tree, the difference between left and right subtree height is not more than 1.
+    
+    int checkBalance(TreeNode* root, bool &isBalance){
         if(root == NULL)
             return 0;
-        if(!ans) // if Answer is already False then return it.
+        if(isBalance == false) // if Answer is already False then return it.
             return false;
-        int leftSubTree = checkBalance(root->left, ans);
-        int rightSubTree = checkBalance(root->right, ans);
+        int leftSubTree = checkBalance(root->left, isBalance);
+        int rightSubTree = checkBalance(root->right, isBalance);
         if(abs(leftSubTree-rightSubTree) > 1){
-            ans = false;
+            isBalance = false;
         }
         return 1 + max(leftSubTree, rightSubTree);
     }
     bool isBalanced(TreeNode* root){
-        bool ans = true;
-        checkBalance(root, ans);
-        return ans;
+        bool isBalance = true;
+        checkBalance(root, isBalance);
+        return isBalance;
     }
 };
 
