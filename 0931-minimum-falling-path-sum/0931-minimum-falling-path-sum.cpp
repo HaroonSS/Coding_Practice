@@ -38,23 +38,28 @@ int getMinUtil(int i, int j, int m, vector<vector<int>> &matrix, vector<vector<i
        int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
         if (n == 0) return 0;
+        vector<vector<int>> dp(n, vector<int>(n, 0));
 
+    // Initialize the first row of dp with values from the matrix (base condition)
+        for (int j = 0; j < n; j++) {
+            dp[0][j] = matrix[0][j];
+        }
         // Start from the second last row and move upwards
-        for (int i = n - 2; i >= 0; --i) {
+        for (int i = 1; i < n; i++) {
             for (int j = 0; j < n; ++j) {
-                int down = matrix[i + 1][j]; // directly below
-                int leftDiagonal = (j > 0) ? matrix[i + 1][j - 1] : INT_MAX; // diagonal left
-                int rightDiagonal = (j < n - 1) ? matrix[i + 1][j + 1] : INT_MAX; // diagonal right
+                int down = matrix[i][j] + dp[i - 1][j]; // directly below
+                int leftDiagonal = (j-1 >= 0) ? matrix[i][j] + dp[i - 1][j - 1] : INT_MAX; // diagonal left
+                int rightDiagonal = (j+1 < n) ? matrix[i][j] + dp[i - 1][j + 1]: INT_MAX; // diagonal right
 
                 // Current cell value is updated to include the minimum path sum from the next row
-                matrix[i][j] += min(down, min(leftDiagonal, rightDiagonal));
+                dp[i][j] += min(down, min(leftDiagonal, rightDiagonal));
             }
         }
 
         // The answer will be the minimum value in the first row
         int mini = INT_MAX;
         for (int j = 0; j < n; ++j) {
-            mini = min(mini, matrix[0][j]);
+            mini = min(mini, dp[n-1][j]);
         }
 
         return mini;
