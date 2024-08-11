@@ -34,7 +34,18 @@ int getMinUtil(int i, int j, int m, vector<vector<int>> &matrix, vector<vector<i
     }
     
     return mini; // Return the minimum path sum
-    }*/
+    }
+    
+Time Complexity: O(N*N): At max, there will be M*N calls of recursion to solve a new problem,
+
+Space Complexity: O(N) + O(N*M):We are using a recursion stack space: O(N), where N is the path length and an external DP Array of size ‘N*M’.*/
+    
+    
+    
+    
+    
+    
+    
        int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
         if (n == 0) return 0;
@@ -64,4 +75,19 @@ int getMinUtil(int i, int j, int m, vector<vector<int>> &matrix, vector<vector<i
 
         return mini;
     }
-};
+};/*
+
+Time Complexity: O(N*M):There are two nested loops
+
+Space Complexity: O(N*M):We are using an external array of size ‘N*M’. The stack space will be eliminated.*/
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
