@@ -19,10 +19,16 @@ public:
             }
         }
         
-        int longestPalindromicSubseq = dp[n][n];
-        
+        int longestPalindromicSubseq = dp[n][n];        
         return n - longestPalindromicSubseq;
-        
-    
     }
-};
+};/*
+In order to minimize the insertions, we need to find the length of the longest palindromic component or in other words, the longest palindromic subsequence.
+
+Minimum Insertion required = n(length of the string) - length of longest palindromic subsequence.
+    
+Approach:
+
+We are given a string (say s), store its length as n.
+Find the length of the longest palindromic subsequence ( say k) as discussed in dp - 28
+Return n-k as answer.*/
