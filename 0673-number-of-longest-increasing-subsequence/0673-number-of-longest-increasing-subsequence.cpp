@@ -8,7 +8,7 @@ public:
         
         int maxLength = 1;
         
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i < n; i++) {
             for (int j = 0; j < i; j++) {
                 if (nums[i] > nums[j] && length[j] + 1 > length[i]) {
                         length[i] = length[j] + 1;
