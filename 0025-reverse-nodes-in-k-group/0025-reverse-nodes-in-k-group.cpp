@@ -10,23 +10,21 @@
  */
 class Solution {
 public:
-    bool isValid(ListNode* temp, int k){
-        int c = 0;
-        while(temp){
-            temp = temp->next;
-            c++;
-            
-            if(c >= k){
-                return true;
-            }
-        }
-        
-        return false;  
-    }
     ListNode* reverseKGroup(ListNode* head, int k) {
         
+        ListNode* curr = head;
+        int c =0;
+        while(c < k){
+            if(curr == NULL) 
+                return head;
+            
+            curr = curr->next;
+            c++;
+        }
+        
         int count = 0;
-        ListNode* prev = NULL, *next = NULL, *curr = head;
+        ListNode* prev = NULL, *next = NULL;
+        curr = head;
         
         while(curr && count < k){
             next = curr->next;
@@ -37,7 +35,7 @@ public:
         }
         
         if(next){
-            head->next = isValid(next, k) ? reverseKGroup(next, k): next;
+            head->next = reverseKGroup(next, k);
         }
         
         return prev;  
