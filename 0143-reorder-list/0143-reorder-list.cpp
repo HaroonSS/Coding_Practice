@@ -12,16 +12,20 @@ class Solution {
 public:
     void reorderList(ListNode* head) {
        vector<ListNode*> arr;
-        for(auto iter = head; iter; iter = iter -> next)
-            arr.push_back(iter);
+        ListNode* curr = head;
+        while(curr){
+            arr.push_back(curr);
+            curr = curr->next;
+        }
+            
         
 		// pointers to start and end of list. Re-order in alternating fashion from both end
         int L = 1, R = arr.size() -1;
-        for(int i = 0; i < arr.size(); i++){
-            if(i & 1)                             // odd iteration:
-                head -> next = arr[L++];          //        - pick node from L & update L ptr
+        for(int i = 1; i < arr.size(); i++){
+            if(i%2 == 1)                             // odd iteration:
+                head -> next = arr[R--];          //        - pick node from L & update L ptr
             else                                  // even iteration
-                head -> next = arr[R--];          //        - pick node from R & update R ptr
+                head -> next = arr[L++];          //        - pick node from R & update R ptr
             
             head = head -> next;
         }
