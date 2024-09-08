@@ -18,8 +18,16 @@ public:
     }
     
     return curr1;
+        
     }
 };/*
+Any time they collide or reach end together without colliding then return any one of the pointers.
+
+If one of them reaches the end earlier then reuse it by moving it to the beginning of other list.
+Once both of them go through reassigning, they will be equidistant from the collision point.
+
+
+        
 ListA = A + intersection
 ListB = B + intersection
 with this solution, it's like we concat ListA and ListB then find the intersection.
