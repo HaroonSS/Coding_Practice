@@ -9,14 +9,24 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-    ListNode* d1 = headA;
-    ListNode* d2 = headB;
+    ListNode* curr1 = headA;
+    ListNode* curr2 = headB;
     
-    while(d1 != d2) {
-        d1 = d1 == NULL? headB:d1->next;
-        d2 = d2 == NULL? headA:d2->next;
+    while(curr1 != curr2) {
+        curr1 = (curr1 == NULL) ? headB: curr1->next;
+        curr2 = (curr2 == NULL) ? headA: curr2->next;
     }
     
-    return d1;
+    return curr1;
     }
-};
+};/*
+ListA = A + intersection
+ListB = B + intersection
+with this solution, it's like we concat ListA and ListB then find the intersection.
+ListA+ListB = A + intersection + B +intersection
+ListB + ListA = B + intersection + A + intersection
+Then we can find the intersections.
+    
+finally i understand.
+ListA+ListB = A + intersection + B + (will meet here) intersection
+ListB + ListA = B + intersection + A +(will meet here)intersection*/
