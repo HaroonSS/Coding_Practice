@@ -11,36 +11,33 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        
-        if(head == NULL){
-            return 0;
-        }
-        int len = 1, count = 0;
-        ListNode* curr = head, *lastNode;
-        
-        while(curr->next){
+        if (!head || !head->next || k == 0) return head; // Edge cases
+
+        // Step 1: Find the length of the list and the last node
+        ListNode* curr = head;
+        int len = 1; // List length starts at 1
+        while (curr->next) {
             len++;
             curr = curr->next;
         }
-        lastNode = curr;
-        
-         if(len <= k){
-             k = k % len;
-         }
-        
-        k = len - k;
+        ListNode* lastNode = curr; // The last node of the list
+
+        // Step 2: Calculate the effective rotations needed
+        k = k % len;
+        if (k == 0) return head; // No rotation needed
+
+        // Step 3: Find the new head (after len - k steps) and tail (len - k - 1 steps)
+        int stepsToNewHead = len - k;
         curr = head;
-        while(count < k-1 && curr){
-            count++;
+        for (int i = 1; i < stepsToNewHead; i++) {
             curr = curr->next;
         }
-        
-        lastNode->next = head;
-        head = curr->next;
-        curr->next = NULL;
-        
-        return head;
-        
-        
+
+        // Step 4: Perform the rotation
+        ListNode* newHead = curr->next;
+        curr->next = NULL;        // Break the list
+        lastNode->next = head;    // Connect last node to old head
+
+        return newHead;
     }
 };
