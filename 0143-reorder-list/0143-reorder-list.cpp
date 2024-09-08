@@ -23,14 +23,14 @@ public:
         int L = 1, R = arr.size() -1;
         for(int i = 1; i < arr.size(); i++){
             if(i%2 == 1)                             // odd iteration:
-                head -> next = arr[R--];          //        - pick node from L & update L ptr
+                head -> next = arr[R--];          //        - pick node from R & update R-- ptr
             else                                  // even iteration
-                head -> next = arr[L++];          //        - pick node from R & update R ptr
+                head -> next = arr[L++];          //        - pick node from L & update L++ ptr
             
             head = head -> next;
         }
         
-        head -> next = NULL;
+        head -> next = NULL; // last node will point to some other node so make it NULL
         
     }
 };
