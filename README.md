@@ -7,6 +7,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/HaroonSS/Coding_Practice/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -26,9 +27,14 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/HaroonSS/Coding_Practice/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
