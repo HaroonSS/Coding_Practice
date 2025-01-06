@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/HaroonSS/Coding_Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
+| [0137-single-number-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/HaroonSS/Coding_Practice/tree/master/0190-reverse-bits) |
 ## Divide and Conquer
 |  |
