@@ -11,6 +11,7 @@
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
+| [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
+| [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,4 +52,21 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+## Depth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+## Union Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
