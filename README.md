@@ -11,6 +11,7 @@
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 ## Two Pointers
 |  |
@@ -69,4 +70,16 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
