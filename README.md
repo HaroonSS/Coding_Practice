@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/HaroonSS/Coding_Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
@@ -38,6 +39,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 |  |
