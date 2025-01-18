@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/HaroonSS/Coding_Practice/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HaroonSS/Coding_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
@@ -63,6 +64,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
+| [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 |  |
@@ -81,6 +83,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HaroonSS/Coding_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HaroonSS/Coding_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 ## Geometry
 |  |
 | ------- |
@@ -111,6 +115,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -124,4 +129,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
