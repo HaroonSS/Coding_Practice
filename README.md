@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 ## Backtracking
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
