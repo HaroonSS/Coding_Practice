@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/HaroonSS/Coding_Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/HaroonSS/Coding_Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/HaroonSS/Coding_Practice/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
 ## Math
