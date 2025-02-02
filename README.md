@@ -19,6 +19,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HaroonSS/Coding_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+| [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/HaroonSS/Coding_Practice/tree/master/0190-reverse-bits) |
+| [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -90,6 +92,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HaroonSS/Coding_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+| [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -122,6 +125,7 @@
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HaroonSS/Coding_Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
+| [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -151,4 +155,20 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
