@@ -1,45 +1,40 @@
 class Solution {
 public:
-    string longestPalindrome(string str) {
-         int n = str.size();
-    // table[i][j] will be false if substring str[i..j] is not palindrome. Else table[i][j] will be true
-    bool table[n][n];
-    memset(table, 0, sizeof(table));
+string longestPalindrome(string s) {
+    int n = s.length();
+    if (n == 0) return "";
 
-    int maxLength = 1;  // All substrings of length 1 are palindromes
- 
-    for (int i = 0; i < n; ++i)
-        table[i][i] = true;
- 
-    // Check for sub-string of length 2.
+    vector<vector<bool>> dp(n, vector<bool>(n, false));
+    int maxLen = 1;
     int start = 0;
-    for (int i = 0; i < n - 1; ++i) {
-        if (str[i] == str[i + 1]) {
-            table[i][i + 1] = true;
+
+    // Every single character is a palindrome
+    for (int i = 0; i < n; i++)
+        dp[i][i] = true;
+
+    // Check for two-character palindromes
+    for (int i = 0; i < n - 1; i++) {
+        if (s[i] == s[i + 1]) {
+            dp[i][i + 1] = true;
             start = i;
-            maxLength = 2;
+            maxLen = 2;
         }
     }
-    // Check for lengths greater than 2.
-    // k is length of substring
-    for (int k = 3; k <= n; ++k) {
-        // Fix the starting index
-        for (int i = 0; i < n - k + 1; i++) {
-            int j = i + k - 1;
-            // Checking for sub-string from ith index to
-            // jth index if str[i+1] to str[j-1] is a
-            // palindrome
-            if (table[i + 1][j - 1] && str[i] == str[j]) {
-                table[i][j] = true;
- 
-                if (k > maxLength) {
-                    start = i;
-                    maxLength = k;
-                }
+
+    // Expand for longer substrings
+    for (int len = 3; len <= n; len++) { // Length of substring
+        for (int i = 0; i <= n - len; i++) { // Start index
+            int j = i + len - 1; // End index
+            if (s[i] == s[j] && dp[i + 1][j - 1]) {
+                dp[i][j] = true;
+                start = i;
+                maxLen = len;
             }
         }
     }
-    return str.substr(start, maxLength);
-        
-    }
-};
+
+    return s.substr(start, maxLen);
+}
+};/*
+Time Complexity: O(n^2): We iterate over all substrings (nested loops).
+Space Complexity: O(n^2)Due to the DP table storing results.*/
