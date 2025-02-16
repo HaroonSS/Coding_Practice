@@ -21,6 +21,7 @@
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/HaroonSS/Coding_Practice/tree/master/0289-game-of-life) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,4 +182,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
