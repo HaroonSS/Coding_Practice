@@ -28,6 +28,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HaroonSS/Coding_Practice/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
 ## Math
@@ -67,6 +68,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/HaroonSS/Coding_Practice/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
@@ -97,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HaroonSS/Coding_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
@@ -171,6 +174,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -189,4 +193,8 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
