@@ -41,6 +41,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
@@ -160,6 +161,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 ## Tree
 |  |
