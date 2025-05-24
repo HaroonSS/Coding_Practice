@@ -28,6 +28,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HaroonSS/Coding_Practice/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/HaroonSS/Coding_Practice/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
@@ -45,6 +46,7 @@
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/HaroonSS/Coding_Practice/tree/master/0125-valid-palindrome) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
