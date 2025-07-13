@@ -1,16 +1,17 @@
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+function invertTree(root) {
+  if (!root) return null;
+  const queue = [root];
+  while (queue.length) {
+    const node = queue.shift();
+    [node.left, node.right] = [node.right, node.left]; // Swap children
+    if (node.left) queue.push(node.left);
+    if (node.right) queue.push(node.right);
+  }
+  return root;
+}*/
 class Solution {
-public:/*
+public:
     TreeNode* invertTree(TreeNode* root) {
         if (root==NULL)
             return NULL;
@@ -21,11 +22,9 @@ public:/*
         invertTree(root->right);
         return root;
     }
-};*/
+};/*
 TreeNode* invertTree(TreeNode* root) {
-    
     if(nullptr == root) return root;
-    
     queue<TreeNode*> myQueue;   // our queue to do BFS
     myQueue.push(root);         // push very first item - root
 
@@ -36,11 +35,10 @@ TreeNode* invertTree(TreeNode* root) {
         if(node->left != nullptr){         // add left kid to the queue if it exists
             myQueue.push(node->left);
         }
-        
         if(node->right != nullptr){        // add right kid 
             myQueue.push(node->right);
         }       
        swap(node -> left, node -> right);
     }
     return root;
-}};
+}};*/
