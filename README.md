@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HaroonSS/Coding_Practice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HaroonSS/Coding_Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/HaroonSS/Coding_Practice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HaroonSS/Coding_Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/HaroonSS/Coding_Practice/tree/master/0125-valid-palindrome) |
@@ -104,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HaroonSS/Coding_Practice/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HaroonSS/Coding_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
