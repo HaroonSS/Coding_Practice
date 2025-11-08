@@ -30,11 +30,10 @@ public:
 // {[6,8], [10,12], [15,16], [20,22], [23,24]}
 // and we need to insert [13,18]
 
-// The first while loop will make result = {[6,8], [10,12]}. Then we terminate
-// on [15,16] since 16 is !< 13. Then the second while loop will compare [13,18]
-// and [15,16] and see if 18 >= 15. Yes, this is true. So we update newInterval
-// to be [13,18]. This part might be confusing, but bear with me. Now we compare
-// [13,18] and [20,22]. Here, 18 >= 20 is NOT true, so we terminate. And then
-// insert into result so result = {[6,8], [10,12], [13,18]}. As I said earlier,
-// the easier way to think about this is that 18 < 20, meaning there is no
+// The first while loop will make result = {[6,8], [10,12]}. Then we terminate on [15,16] since 16 is !< 13. 
+// Then the second while loop will compare [13,18]and [15,16] and see if 18 >= 15. Yes, this is true. 
+// So we update newInterval to be [13,18]. This part might be confusing, but bear with me. 
+// Now we compare [13,18] and [20,22]. Here, 18 >= 20 is NOT true, so we terminate. 
+// And then insert into result so result = {[6,8], [10,12], [13,18]}. 
+// As I said earlier, the easier way to think about this is that 18 < 20, meaning there is no
 // longer an overlap, and we can now terminate the loop.
