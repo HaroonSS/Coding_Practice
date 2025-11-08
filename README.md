@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/HaroonSS/Coding_Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/HaroonSS/Coding_Practice/tree/master/0046-permutations) |
+| [0057-insert-interval](https://github.com/HaroonSS/Coding_Practice/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0137-single-number-ii) |
