@@ -48,6 +48,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/HaroonSS/Coding_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/HaroonSS/Coding_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
@@ -126,6 +128,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/HaroonSS/Coding_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
