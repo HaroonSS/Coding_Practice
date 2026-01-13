@@ -19,6 +19,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/HaroonSS/Coding_Practice/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HaroonSS/Coding_Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HaroonSS/Coding_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
@@ -88,6 +90,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HaroonSS/Coding_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/HaroonSS/Coding_Practice/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Data Stream
 |  |
 | ------- |
@@ -215,4 +219,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
