@@ -168,6 +168,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Data Stream
@@ -183,16 +184,19 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
+| [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
@@ -225,4 +229,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
