@@ -26,6 +26,7 @@
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/HaroonSS/Coding_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@
 | [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/HaroonSS/Coding_Practice/tree/master/1200-minimum-absolute-difference) |
 ## Binary Search
 |  |
 | ------- |
