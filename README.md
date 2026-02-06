@@ -28,6 +28,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/HaroonSS/Coding_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3379-transformed-array](https://github.com/HaroonSS/Coding_Practice/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/HaroonSS/Coding_Practice/tree/master/0289-game-of-life) |
+| [3379-transformed-array](https://github.com/HaroonSS/Coding_Practice/tree/master/3379-transformed-array) |
 ## Greedy
 |  |
 | ------- |
