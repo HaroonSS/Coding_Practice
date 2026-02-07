@@ -21,3 +21,18 @@ var countAndSay = function(n) {
 
     return s;
 };
+/*
+
+```
+Example (n = 5):
+
+1
+11      (one 1)
+21      (two 1s)
+1211    (one 2, one 1)
+111221  (one 1, one 2, two 1s)
+
+
+Read previous string → count consecutive digits → write count + digit
+```
+*/
