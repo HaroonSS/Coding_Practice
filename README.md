@@ -54,6 +54,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HaroonSS/Coding_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/HaroonSS/Coding_Practice/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
