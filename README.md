@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## String
@@ -59,6 +60,7 @@
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HaroonSS/Coding_Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/HaroonSS/Coding_Practice/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0227-basic-calculator-ii) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
@@ -190,6 +192,7 @@
 | [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0227-basic-calculator-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
