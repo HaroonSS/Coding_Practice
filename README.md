@@ -64,6 +64,7 @@
 | [0227-basic-calculator-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0227-basic-calculator-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HaroonSS/Coding_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HaroonSS/Coding_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0078-subsets](https://github.com/HaroonSS/Coding_Practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/HaroonSS/Coding_Practice/tree/master/0190-reverse-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HaroonSS/Coding_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HaroonSS/Coding_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,4 +253,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HaroonSS/Coding_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HaroonSS/Coding_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
