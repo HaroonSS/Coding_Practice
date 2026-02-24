@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HaroonSS/Coding_Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HaroonSS/Coding_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HaroonSS/Coding_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
@@ -240,6 +243,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0096-unique-binary-search-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0096-unique-binary-search-trees) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Linked List
 |  |
@@ -252,6 +256,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
