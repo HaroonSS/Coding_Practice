@@ -109,6 +109,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HaroonSS/Coding_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
@@ -199,11 +200,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/HaroonSS/Coding_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/HaroonSS/Coding_Practice/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HaroonSS/Coding_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
@@ -211,6 +214,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HaroonSS/Coding_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
