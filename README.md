@@ -113,6 +113,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HaroonSS/Coding_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/HaroonSS/Coding_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/HaroonSS/Coding_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -214,6 +216,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/HaroonSS/Coding_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0617-merge-two-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -224,6 +227,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/HaroonSS/Coding_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0617-merge-two-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
