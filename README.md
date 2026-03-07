@@ -120,6 +120,7 @@
 | [0404-sum-of-left-leaves](https://github.com/HaroonSS/Coding_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/HaroonSS/Coding_Practice/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -131,6 +132,7 @@
 | [0404-sum-of-left-leaves](https://github.com/HaroonSS/Coding_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/HaroonSS/Coding_Practice/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
@@ -188,6 +190,7 @@
 | [0295-find-median-from-data-stream](https://github.com/HaroonSS/Coding_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HaroonSS/Coding_Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/HaroonSS/Coding_Practice/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/HaroonSS/Coding_Practice/tree/master/0743-network-delay-time) |
 | [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
@@ -293,8 +296,13 @@
 | ------- |
 | [0133-clone-graph](https://github.com/HaroonSS/Coding_Practice/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0310-minimum-height-trees) |
+| [0743-network-delay-time](https://github.com/HaroonSS/Coding_Practice/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0310-minimum-height-trees) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/HaroonSS/Coding_Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
