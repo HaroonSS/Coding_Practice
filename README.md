@@ -116,6 +116,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HaroonSS/Coding_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/HaroonSS/Coding_Practice/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/HaroonSS/Coding_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/HaroonSS/Coding_Practice/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/HaroonSS/Coding_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/HaroonSS/Coding_Practice/tree/master/0721-accounts-merge) |
@@ -290,4 +292,9 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/HaroonSS/Coding_Practice/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
