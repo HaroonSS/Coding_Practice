@@ -275,6 +275,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HaroonSS/Coding_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 ## Randomized
 |  |
@@ -311,4 +312,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/HaroonSS/Coding_Practice/tree/master/0743-network-delay-time) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HaroonSS/Coding_Practice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
