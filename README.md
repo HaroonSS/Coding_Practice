@@ -31,6 +31,7 @@
 | [1200-minimum-absolute-difference](https://github.com/HaroonSS/Coding_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3379-transformed-array](https://github.com/HaroonSS/Coding_Practice/tree/master/3379-transformed-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/HaroonSS/Coding_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,11 +156,13 @@
 | [1014-k-closest-points-to-origin](https://github.com/HaroonSS/Coding_Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HaroonSS/Coding_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/HaroonSS/Coding_Practice/tree/master/1200-minimum-absolute-difference) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/HaroonSS/Coding_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/HaroonSS/Coding_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0096-unique-binary-search-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0096-unique-binary-search-trees) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/HaroonSS/Coding_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Linked List
 |  |
 | ------- |
