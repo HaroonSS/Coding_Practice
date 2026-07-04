@@ -60,6 +60,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaroonSS/Coding_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HaroonSS/Coding_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HaroonSS/Coding_Practice/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0076-minimum-window-substring) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HaroonSS/Coding_Practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HaroonSS/Coding_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/HaroonSS/Coding_Practice/tree/master/0173-binary-search-tree-iterator) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HaroonSS/Coding_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/HaroonSS/Coding_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/HaroonSS/Coding_Practice/tree/master/0096-unique-binary-search-trees) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HaroonSS/Coding_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/HaroonSS/Coding_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
