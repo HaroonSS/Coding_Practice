@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/HaroonSS/Coding_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/HaroonSS/Coding_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/HaroonSS/Coding_Practice/tree/master/0027-remove-element) |
@@ -98,6 +99,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HaroonSS/Coding_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/HaroonSS/Coding_Practice/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/HaroonSS/Coding_Practice/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0948-sort-an-array) |
@@ -168,6 +170,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HaroonSS/Coding_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HaroonSS/Coding_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HaroonSS/Coding_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/HaroonSS/Coding_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
